@@ -85,8 +85,6 @@ audio.addEventListener("timeupdate", function() {
   currentTime.innerHTML = formatTime(audio.currentTime);
 });
 
-// Update
-
 </body>
 </html>
 
