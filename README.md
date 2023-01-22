@@ -6,6 +6,6 @@
  OlleFernau
  </h1>
   <h2>
-    <small>Contact:ollefernau@gmail.com</>small>
+    <small>Contact:ollefernau@gmail.com</small>
   </h2>
  
