@@ -1,19 +1,19 @@
-# webpage-music
-Contains contact info and a media 
+# Olle Fernau
+
 
 
 
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Website</title>
+  <title>Olle Fernau>
   <style>
     body {
       background-color: orange;
-      text-align: center; /* center the elements inside the body */
+      text-align: left; /* center the elements inside the body */
     }
     h1 {
-      text-align: center;
+      text-align: Left
     }
     /* Style for the media player */
     .media-player {
