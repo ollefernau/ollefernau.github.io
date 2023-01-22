@@ -1,7 +1,6 @@
 <html>
 <head>
   <title>olle fernau</title>
-</header>
 <body>
  <h1>
  OlleFernau
