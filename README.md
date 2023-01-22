@@ -6,6 +6,9 @@
    <body>
       <h1>
          Musik
-         <p>kontakt
+         <p>
+            <small>
+               kontakt
+            </small>
          </p>
       </h1>
