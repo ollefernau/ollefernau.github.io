@@ -1,9 +1,5 @@
+
 <head>
-   <title>
-      ollefernau
-   </title>
-   <body>
-      <h1>
   <title>Media Player</title>
   <link rel="stylesheet" type="text/css" href="player.css">
 </head>
@@ -28,7 +24,9 @@
     </div>
   </div>
   <script src="player.js"></script>
-   #track-list {
+</body>
+</html>
+#track-list {
   width: 200px;
   float: left;
 }
@@ -85,14 +83,6 @@ audio.addEventListener("timeupdate", function() {
   currentTime.innerHTML = formatTime(audio.currentTime);
 });
 
-</body>
-</html>
 
-         <p>
-            <small>
-               kontakt
-            </small>
-         </p>
-      </h1>
       
         
