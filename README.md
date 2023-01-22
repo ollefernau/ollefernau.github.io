@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-
 <html>
 <head>
-<title>Olle Fernau>
-<style>
- body {
- background-color: orange;
- text-align: left; /* center the elements inside the body */
-   
+  <title>Olle Fernau>
+page<title>
+<head>
+<body>
+  </h1>
+  <page.</p>
