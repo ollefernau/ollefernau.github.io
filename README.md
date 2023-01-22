@@ -7,7 +7,7 @@
   <div id="player">
     <div id="track-list">
       <ul>
-        <li class="current-track" data-track="piano and strings.mp3">Track 1</li>
+        <li class="current-track" data-track="Main title utan titel.mp3">Track 1</li>
         <li data-track="track2.mp3">Track 2</li>
         <li data-track="track3.mp3">Track 3</li>
         <li data-track="track4.mp3">Track 4</li>
